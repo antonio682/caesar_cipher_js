@@ -27,14 +27,6 @@ function caesarBuilder(message, shift) {
      return caesar(message,shift);
 }
 
-class WholeCipher{
-
-	constructor(message, shift1){
-		this.message = message;
-		this.shift1 = shift1;
-	}
-	
-}
 
 
 
